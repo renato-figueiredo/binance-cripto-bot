@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignorar o diretório do ambiente virtual
+venv/
+
+# Ignorar o arquivo api_text.txt
+api_text.txt
