@@ -1,4 +1,4 @@
-```markdown
+
 # Bot de Verificação de Criptomoedas
 
 ## Tecnologias Usadas
@@ -8,7 +8,7 @@ Este projeto utiliza Python, juntamente com várias bibliotecas, incluindo `pand
 ## Sobre o Projeto
 
 Este projeto é um bot de verificação automática de criptomoedas. Ele verifica todas as criptomoedas na Binance que são negociadas com USDT e envia notificações para o Telegram quando certas condições são atendidas. As condições são baseadas no Índice de Força Relativa (RSI) e no Índice de Fluxo de Dinheiro (MFI) das criptomoedas.
-```
+
 
 ## Iniciando o Projeto
 
